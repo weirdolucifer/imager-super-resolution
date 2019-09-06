@@ -1,4 +1,4 @@
-# SuperRes-GAN
+# Image SuperResolution using GAN
 **Fifth Semester mini project.Video Super Resolution using Deep Convolutional Generative Adversarial Network(DCGAN).**
 
 A Generative Adversarial Network has two main Neural Networks.
