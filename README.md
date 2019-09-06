@@ -21,6 +21,13 @@ Train the model
 ```
 python3 train.py
 ```
+Test the model
+```
+python3 test.py
+```
+store the output
+```
+python3 superres.py
 
 ## Working of the Model
 As the training goes the generator gets better and better at generating realistic outputs while the discriminator finds it harder and harder to distingush real and fake images. 
