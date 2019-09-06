@@ -1,0 +1,6 @@
+model_checkpoint_path: "new_model"
+all_model_checkpoint_paths: "../2/new_model"
+all_model_checkpoint_paths: "../3/new_model"
+all_model_checkpoint_paths: "../4/new_model"
+all_model_checkpoint_paths: "../5/new_model"
+all_model_checkpoint_paths: "new_model"
